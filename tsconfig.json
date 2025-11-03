@@ -10,6 +10,7 @@
 		"sourceMap": true,
 		"strict": true,
 		"moduleResolution": "bundler",
+		"types": ["node"]
 			//			don't forget to add to vite
 				// don't add here just alias in sveletkit
 	},

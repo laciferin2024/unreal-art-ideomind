@@ -156,7 +156,7 @@ Ideomind is feature-frozen; active development continues in the [Unreal AI](http
 2. Follow the style guide: `pnpm lint` & `prettier`.
 3. Open a PR describing the change and its impact.
 
-Security issues? Email **hiro@unreal.art**.
+Security issues? Email **hiro@ideomind.org**.
 
 ## ⚖️ License
 

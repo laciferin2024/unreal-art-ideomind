@@ -20,8 +20,8 @@ const customWallets = storedCustomWallet ? [JSON.parse(storedCustomWallet)] : un
 const metadata = {
 	name: "unreal",
 	description: "AI engine for media generation",
-	url: "https://unreal.art/",
-	icons: ["https://unreal.art/Icon-Black.png"]
+	url: "https://ideomind.org/",
+	icons: ["https://ideomind.org/Icon-Black.png"]
 };
 
 export const chains = [gnosis, torusTestnet] as const;
